@@ -1,6 +1,6 @@
 # TDSE LAB1 Manuel Alejandro Guarnizo
 
-A practical repository for implementing regression techniques on astronomical data. This project explores both linear and polynomial approaches to model stellar mass-luminosity relationships.
+A practical repository for implementing regression techniques on astronomical data. This project explores both linear and polynomial approaches to model stellar mass-luminosity relationships for the one feature and with more relations in multiple features.
 
 
 ## In this repository are the notebooks:
