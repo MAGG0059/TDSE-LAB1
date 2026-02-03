@@ -14,7 +14,7 @@ This repository contains two Jupyter Notebooks that demonstrate:
 ### Requirements
 - **Python 3.10+** (compatible with most Python 3.x versions)
 - **Jupyter Notebook** or **JupyterLab**
-- Python libraries: `numpy`, `matplotlib`, `scikit-learn`, `pandas`
+- Python libraries: `numpy`, `matplotlib`, `pandas`
 
 ### Installation Steps
 1. Clone the repository:
